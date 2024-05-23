@@ -1,0 +1,89 @@
+[
+  {
+    "_id": {
+      "$oid": "6641f5b9dc913de8023b6012"
+    },
+    "chat_id": "04b757e3-5d19-4fbd-93e8-7490056b5cc8",
+    "chatbot_id": "652fdbae42326fdcf8673656",
+    "history": [
+      {
+        "role": "user",
+        "content": "mii dai un percorso di riabilitazione per una frattura alla gamba",
+        "datetime": "2024-05-13 11:12:57"
+      },
+      {
+        "role": "system",
+        "content": "La riabilitazione da una frattura",
+        "datetime": "2024-05-13 11:12:57"
+      },
+      {
+        "role": "user",
+        "content": "mii dai un percorso di riabilitazione per una frattura alla gamba",
+        "datetime": "2024-05-13 12:50:36"
+      },
+      {
+        "role": "system",
+        "content": "are la gamba lesionata. Questo potrebbe includere esercizi in acqua per ridurre il carico, esercizi di stretching per mantenere la flessibilità e esercizi di rafforzamento muscolare.\n\n4. **Ripresa del Carico Graduale**: Con il miglioramento della forza e della mobilità, si inizia gradualmente a reintrodurre il peso sulla gamba, inizialmente con l'ausilio di attrezzi come stampelle o deambulatori, fino a raggiungere una camminata autonoma.\n\n5. **Riabilitazione Funzionale**: Questa fase si concentra sul recupero delle capacità di svolgere attività quotidiane e, per gli atleti, specifici esercizi per ritornare allo sport. Può includere esercizi di equilibrio, coordinazione e simulazioni delle attività specifiche.\n\n6. **Prevenzione e Mantenimento**: Dopo il recupero, è importante continuare con esercizi di mantenimento per prevenire future lesioni e mantenere la gamba forte e flessibile.\n\nRicorda, ogni fase del percorso di riabilitazione deve essere personalizzata in base alle specifiche esigenze del paziente, alla gravità della frattura e alla risposta individuale al trattamento.",
+        "datetime": "2024-05-13 12:50:36"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66420e0adc913de8023b6023"
+    },
+    "chat_id": "e3e990c7-baa7-487c-b940-bfd0f7f41637",
+    "chatbot_id": "652fdbae42326fdcf8673656",
+    "history": [
+      {
+        "role": "user",
+        "content": "mii dai un percorso di riabilitazione per una frattura alla gamba",
+        "datetime": "2024-05-13 12:56:42"
+      },
+      {
+        "role": "system",
+        "content": "La riabilitazione dopo una frattura alla gamba ",
+        "datetime": "2024-05-13 12:56:42"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "663e1181cc15ca0da294903f"
+    },
+    "chat_id": "f81c02b4-be47-469a-8b4b-d917c1082e3e",
+    "chatbot_id": "663886e38e293f2615ed49d7",
+    "history": [
+      {
+        "role": "user",
+        "content": "ciao",
+        "datetime": "2024-05-10 12:22:25"
+      },
+      {
+        "role": "system",
+        "content": "Ciao! Come posso aiutarti oggi al Centro Commerciale Gran Sasso? 😊",
+        "datetime": "2024-05-10 12:22:25"
+      },
+      {
+        "role": "user",
+        "content": "quali promozioni sono attive?",
+        "datetime": "2024-05-10 12:22:53"
+      },
+      {
+        "role": "system",
+        "content": "Ecco le promozioni attive ",
+        "datetime": "2024-05-10 12:22:53"
+      },
+      {
+        "role": "user",
+        "content": "no grazie ",
+        "datetime": "2024-05-10 12:24:34"
+      },
+      {
+        "role": "system",
+        "content": "Va bene! ",
+        "datetime": "2024-05-10 12:24:34"
+      }
+    ]
+  }
+]
